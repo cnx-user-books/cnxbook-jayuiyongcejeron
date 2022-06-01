@@ -1,0 +1,23 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>OER 동향</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34766</md:content-id>
+  <md:title>OER 동향</md:title>
+  <md:abstract>OER관련 해외 사례 보고서입니다.</md:abstract>
+  <md:uuid>832d5110-5b01-4965-a277-d030dfa3fd87</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><!-- Insert module text here -->
+1. OER 등장 배경
+</para><para id="eip-225">1990년대부터 인터넷을 통해 상호 지식 정보 교류의 장이 시작되었다. 최근에는 Web 1.0부터 2.0까지 다수 사용자들 간의 상호 지식 정보 교류를 위한 다양한 소통 커뮤니케이션들이 개발되어 오고 있다. 이러한 개발로 말미암아 교육 분야를 포함한 광범위한 활동에 영향을 미치고 있다. 특히, 교육 활동에 있어 상호 지식 정보 교류 운동에 핵심이 되는 것이 OER 확산 운동이다. 이 OER 확산 운동은 기존의 교육 패러다임을 새로운 IT 기술의 접목으로 바꾸기 위함에 그 목적이 있다고 해도 과언이 아니다. 즉, 새로운 교육 패러다임이란 양질의 교육에 대한 접근성을 강화하고 지식에 대한 자유로운 공유와 교환이 최대한 확대될 수 있도록 하는 것이다. 결국 교육 수요자들의 교육 격차를 해소하기 위해서는 상호 지식 정보가 공유되고, 자유롭게 사용, 분배, 변경될 수 있는 오픈 소스식 접근의 공개 교육 자료 제공(OER)이 필요하다고 인식되고 있다. 이와 같이 오픈 소스식 콘텐츠 개발 방법이 교육 분야에 적용 된다면 교수자, 학습자, 학부모 등이 교육 컨텐츠 개발 과정에 참여함으로써 그들 간의 요구 및 의견 수렴을 통해 교육 컨텐츠의 수정과 편집이 이루어지고, 결국 교육의 질을 향상 시킬 수 있을 것이다. 
+이를 위해 시작된 것은 인터넷을 통한 지식 정보들의 공유를 확대를 위한 오픈 소스 모델의 적용이다. 이 오픈 소스 모델을 통한 다양한 응용 분야의 공통점은 다음과 같다.
+</para><para id="eip-409">살기 위해 먹는 
+  <link document="m10275" version="2.1">제일 좋은 음식
+  </link>. 그 것은 <link url="http://en.wikibooks.org/" window="new">여기에</link>.
+
+        </para>
+</content>
+
+</document>

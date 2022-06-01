@@ -1,0 +1,40 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="ko">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11212</md:content-id>
+    <md:title>자유이용체제론</md:title>
+    <md:language>ko</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>c3b35f04-be63-471c-88e9-203d6392f4a1</md:uuid>
+<md:slug>jayuiyongcejeron</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>서론</md:title>
+      <col:content>
+        <col:module document="m34766"/>
+        <col:module document="m15224"/>
+        <col:module document="m15234"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>연구배경</md:title>
+      <col:content>
+        <col:module document="m14472"/>
+        <col:module document="m14476"/>
+        <col:module document="m14475"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>제안모델</md:title>
+      <col:content>
+        <col:module document="m15495"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>결론</md:title>
+      <col:content>
+        <col:module document="m21192"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
